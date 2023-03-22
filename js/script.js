@@ -60,7 +60,7 @@ for (let i = 0; i < teamArr.length; i++) {
 
     rowBox.innerHTML += 
     `
-    <div class="col-4">
+    <div class="col-lg-4 col-md-6 col-sm-12">
         <div class="card">
             <img src="./img/${imageBox}" alt="${i}">
             <div class="card-body text-center">
@@ -71,9 +71,3 @@ for (let i = 0; i < teamArr.length; i++) {
     </div>
     `
 }
-
-
-
-
-
-    
