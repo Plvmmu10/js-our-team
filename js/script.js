@@ -1,13 +1,3 @@
-//Creare l’array di oggetti con le informazioni fornite. COMPLETED
-
-//Stampare su console, per ogni membro del team, le informazioni di nome, ruolo e la stringa della foto COMPLETED
-
-//Stampare le stesse informazioni su DOM sottoforma di stringhe
-
-//Trasformare la stringa foto in una immagine effettiva
-
-//Organizzare i singoli membri in card/schede
-
 let rowBox = document.querySelector('.row');
 
 const teamArr =
